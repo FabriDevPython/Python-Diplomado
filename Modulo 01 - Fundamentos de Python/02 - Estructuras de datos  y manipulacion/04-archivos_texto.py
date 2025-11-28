@@ -135,4 +135,3 @@ for linea in lineas:
     print(linea, end='')
 
 archi1.close()
-
